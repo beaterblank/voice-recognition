@@ -1,0 +1,1 @@
+obj1 = audiorecorder(8000,16,1,-1);
